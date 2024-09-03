@@ -1,0 +1,36 @@
+{
+    "faturamento_diario": [
+      {"dia": 1, "valor": 1023.50},
+      {"dia": 2, "valor": 854.30},
+      {"dia": 3, "valor": 0.00},
+      {"dia": 4, "valor": 1123.20},
+      {"dia": 5, "valor": 0.00},
+      {"dia": 6, "valor": 764.00},
+      {"dia": 7, "valor": 932.10},
+      {"dia": 8, "valor": 456.45},
+      {"dia": 9, "valor": 0.00},
+      {"dia": 10, "valor": 1234.75},
+      {"dia": 11, "valor": 867.50},
+      {"dia": 12, "valor": 0.00},
+      {"dia": 13, "valor": 932.60},
+      {"dia": 14, "valor": 1132.40},
+      {"dia": 15, "valor": 0.00},
+      {"dia": 16, "valor": 978.90},
+      {"dia": 17, "valor": 659.10},
+      {"dia": 18, "valor": 1032.75},
+      {"dia": 19, "valor": 0.00},
+      {"dia": 20, "valor": 1143.90},
+      {"dia": 21, "valor": 0.00},
+      {"dia": 22, "valor": 987.00},
+      {"dia": 23, "valor": 789.25},
+      {"dia": 24, "valor": 0.00},
+      {"dia": 25, "valor": 1120.60},
+      {"dia": 26, "valor": 0.00},
+      {"dia": 27, "valor": 1345.80},
+      {"dia": 28, "valor": 0.00},
+      {"dia": 29, "valor": 876.45},
+      {"dia": 30, "valor": 1456.95},
+      {"dia": 31, "valor": 963.25}
+    ]
+  }
+  
